@@ -1,1 +1,1 @@
-Learn the Tkinter Library
+Learn the Tkinter Library and its Widgets
